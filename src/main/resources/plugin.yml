@@ -1,12 +1,12 @@
-name: Gamedemo
-main: org.sobadfish.gamedemo.GameDemoMain
+name: BuildUHC
+main: org.sobadfish.builduhc.BuildUHCMain
 version: 1.0.0
 api:
   - 1.0.11
   - 3.0.0
-author: sobadfish
+author: sobadfish&GouDang888
 load: POSTWORLD
-description: "小游戏插件框架"
+description: "BuildUHC"
 
 softdepend:
   - ScoreboardPlugin

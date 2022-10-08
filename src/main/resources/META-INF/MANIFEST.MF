@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: C:\Users\29347\Desktop\GameDemo-master\src\main\java\org\sob
+ adfish\gamedemo\GameDemoMain.java
+
